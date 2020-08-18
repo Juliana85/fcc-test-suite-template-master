@@ -1,0 +1,19 @@
+#main{
+    background-color:rgb(189, 186, 186) ;
+    text-align:center ;
+}
+
+ul li{
+    text-align: left;
+    margin-left: 15%;
+    margin-right: 5%; 
+    padding-top: 10px;
+}
+#img-div{
+    display: block;
+    margin: 0 auto;
+}
+
+#image{
+    max-width: 100% ;
+}
